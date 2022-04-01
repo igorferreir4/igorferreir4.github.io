@@ -1,17 +1,7 @@
-Evie
-====
+# Igor Ferreira - Minhas Aplicações
 
-Project site: https://evie.undraw.co
+O tema utilizado é o ["Evie"](https://github.com/anges244/evie), copyright (c) 2018 [Aggelos Gesoulis](https://twitter.com/anges244) - [Katerina Limpitsouni](https://twitter.com/ninalimpi), disponível sob a licença do MIT.
 
-An MIT licensed template bundled with a minimal style guide to build websites faster, especially combined with illustrations from [unDraw](https://undraw.co). It is extemely lightweight, customizable and works perfectly on modern browsers.
+A foto do cabeçalho é de [Pexels](https://www.pexels.com/pt-br/foto/interior-do-edificio-de-escritorios-325229/).
 
-![Evie Landing](https://github.com/anges244/evie/blob/master/docs/images/preview_landing.png)
-
-Usage
------
-
-_This is still under development. For better instructions, head over to the [project website](https://evie.undraw.co)._
-
-This version contains the development setup, with the source files (SASS,EJS) and a Gulp/Express.js setup. To use it, run `gulp`. This will start the server with live reloading. If you just want to compile a customized production version, the path is "src/theme/" and there you can change the SASS files, customize colors, make any change you want and run `gulp build`. This will generate a "theme" folder which contains your static website.
-
-### Real documentation coming soon
+Os SVG's são do [SVG Repo](https://www.svgrepo.com/)
